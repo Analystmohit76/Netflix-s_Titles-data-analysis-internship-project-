@@ -105,5 +105,15 @@ The dashboard includes:
 
 ---
 
-## 📁 Project Structure
+## 📚 Conclusion
+This project demonstrates how **Power BI + Python** can be combined for end-to-end data analysis.  
+It provides a visual and analytical understanding of Netflix’s evolving content strategy across genres and regions.
+
+---
+
+## 👨‍💻 Author
+**[Mohit Sharma]**  
+*Data Analyst Intern*  
+📧 [danalyst.mohit@gmail.com]   
+
 
